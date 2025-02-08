@@ -1,100 +1,144 @@
-<<<<<<< HEAD
+# KrishiBrahmand 🌾🚜
 
-# KrishiBrahmand
+[![GitHub Repo stars](https://img.shields.io/github/stars/anika-001/KrishiBrahmand?style=for-the-badge)](https://github.com/anika-001/KrishiBrahmand)
+[![GitHub License](https://img.shields.io/github/license/anika-001/KrishiBrahMand?color=%23ffff00&style=for-the-badge)](https://opensource.org/licenses/MIT)
+[![GitHub Contributors](https://img.shields.io/github/contributors/anika-001/KrishiBrahmand?color=%00b3b3&style=for-the-badge)](https://github.com/anika-001/KrishiBrahmand/graphs/contributors)
+[![GitHub Forks](https://img.shields.io/github/forks/anika-001/KrishiBrahmand?color=%23ff69b4&style=for-the-badge)](https://github.com/anika-001/KrishiBrahmand/network)
 
-![GitHub Repo stars](https://img.shields.io/github/stars/anika-001/KrishiBrahmand?style=for-the-badge)
-![GitHub](https://img.shields.io/github/license/anika-001/KrishiBrahMand?color=%23ffff00&style=for-the-badge)
-![GitHub contributors](https://img.shields.io/github/contributors/anika-001/KrishiBrahmand?color=%00b3b3&style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/anika-001/KrishiBrahmand?color=%23ff69b4&style=for-the-badge)
-
-=======
-# KrishiBrahmand
-
->>>>>>> 897e18379c29d7c6bf68b4f2ddc65bf45d703ee6
 [![Krishi Brahmand : Fresh from Farm to Plate](http://img.youtube.com/vi/E6Qo4B_lS84/0.jpg)](http://www.youtube.com/watch?v=E6Qo4B_lS84 "Krishi Brahmand : Fresh from Farm to Plate")
 
-<!-- TABLE OF CONTENTS -->
+---
+
+## 📚 Table of Contents
+
 <details open="open">
-  <summary>Table of Contents</summary>
+  <summary>Click to Expand</summary>
   <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
+    <li><a href="#about-the-project">About The Project</a></li>
+    <li><a href="#built-with">Built With</a></li>
+    <li><a href="#getting-started">Getting Started</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
+    <li><a href="#credits">Credits</a></li>
   </ol>
 </details>
 
-<!-- ABOUT THE PROJECT -->
-## About The Project
+---
 
+## 🚜 About The Project
 
-The problem Krishi Brahmand solves
-There is an absence of an application that connects consumers with farmers in a transparent and direct manner. Hence, we decided to build an application connecting farmers with consumers facilitating the chain of buying and selling.
-Krishi Brahmand with its main motto of “Fresh from Farm to Plate” achieves the goal of providing farmers with better opportunities to showcase their produce and pocket a higher remuneration. Its main aim is to do away with the several layers of middlemen between the farmer and the consumer. The project allows farmers to upload details, view product statistics, track various shipments and pickups of orders and receive payment online.
-The ease of transaction and the sheer availability of choices alone ensures a wide user reach. This in turn assists farmers in increasing their profit just at the click of a button. Along with these functionalities Krishi Brahmand also provides farmers with a safe space to educate themselves on Government schemes and receive the appropriate assistance they require.
-Thus, this project aims to help farmers achieve their true potential without the need of being dependent on intermediaries.
+### The Problem Krishi Brahmand Solves
 
-### Built With
+In today's agricultural market, there is a **lack of transparency** and **direct connection** between farmers and consumers. Middlemen inflate prices and eat into the farmers' profits. **Krishi Brahmand** tackles this issue by **connecting farmers directly with consumers**, providing a streamlined, transparent platform for buying and selling agricultural produce.
 
-* [MongoDB](https://www.mongodb.com/cloud/atlas/lp/try2-in?utm_source=google&utm_campaign=gs_apac_india_search_core_brand_atlas_desktop&utm_term=mongodb&utm_medium=cpc_paid_search&utm_ad=e&utm_ad_campaign_id=12212624347&gclid=Cj0KCQjwse-DBhC7ARIsAI8YcWJdrpDGwUuJfqeQfiaMAsLLV8SbNuTAjjZSK61kcUZpO8DT9yjoEeYaAqS4EALw_wcB)
-* [Express.js](https://expressjs.com/)
-* [Angular](https://angular.io/)
-* [Node.js](https://nodejs.org/en/)
+### Our Solution
 
+The **Krishi Brahmand** platform, under its motto **"Fresh from Farm to Plate"**, aims to empower farmers by offering:
+- **A direct sales channel**: No more middlemen! Farmers can showcase their produce directly to consumers.
+- **Better profit opportunities**: With more control over pricing and the ability to cut out intermediaries.
+- **Education and Support**: Farmers can access government schemes, get help on various farming techniques, and stay updated on agricultural trends.
 
-<!-- GETTING STARTED -->
-## Getting Started
+In addition to these features, **Krishi Brahmand** helps farmers track their orders, manage shipments, and receive payments securely online, making it the ultimate tool for **modern farming**.
 
-### Installation
+---
 
-1. Clone the repo
+## 🛠️ Built With
+
+The project utilizes modern technologies to ensure seamless performance:
+
+- **[MongoDB](https://www.mongodb.com/cloud/atlas/lp/try2-in?utm_source=google&utm_campaign=gs_apac_india_search_core_brand_atlas_desktop&utm_term=mongodb&utm_medium=cpc_paid_search&utm_ad=e&utm_ad_campaign_id=12212624347&gclid=Cj0KCQjwse-DBhC7ARIsAI8YcWJdrpDGwUuJfqeQfiaMAsLLV8SbNuTAjjZSK61kcUZpO8DT9yjoEeYaAqS4EALw_wcB)**: NoSQL Database for storing user and product information
+- **[Express.js](https://expressjs.com/)**: Web framework for the backend server
+- **[Angular](https://angular.io/)**: Frontend framework for building the user interface
+- **[Node.js](https://nodejs.org/en/)**: JavaScript runtime for server-side scripting
+
+---
+
+## 🚀 Getting Started
+
+To get a local copy up and running, follow these simple steps:
+
+### 🛠️ Installation
+
+## Prerequisites
+
+- Node.js and npm installed
+- Angular CLI installed
+
+## Installation
+
+1. **Clone the repository**:
    ```sh
    git clone https://github.com/anika-001/KrishiBrahmand.git
    ```
-2. Install NPM packages
+
+2. **Install Frontend Dependencies**:
    ```sh
-   npm i frontend
-   npm i backend
+   npm install frontend
    ```
-3. Run Frontend
+
+3. **Install Backend Dependencies**:
+   ```sh
+   npm install backend
    ```
+
+## Running the Application 🔧
+
+### Frontend
+   ```sh
    ng serve
    ```
-4. Building Backend
-   ```
+
+### Backend
+
+#### Build
+   ```sh
    npm run build
    ```
-5. Run Backend
-   ```
+
+#### Run Development Server
+   ```sh
    npm run dev
    ```
-   
-<!-- CONTRIBUTING -->
-## Contributing
 
-1. Fork the Project
-2. Clone the repository (`git clone https://github.com/anika-001/KrishiBrahmand.git`)
-3. Create a Branch (`git checkout -b new-branch-name`)
-4. Commit your Changes (`git commit -m 'Added some Amazing Features'`)
-5. Push to the Branch (`git push origin your-branch-name`)
-6. Open a Pull Request
+🌐 Access the application at [http://localhost:4200](http://localhost:4200) in your browser.
 
-<!-- LICENSE -->
-## License
+---
+
+## Contributing 🤝
+
+We welcome contributions to **KrishiBrahmand**! Here's how you can help:
+
+1. **Fork the project**
+2. **Create your feature branch**:
+   ```sh
+   git checkout -b feature/AmazingFeature
+   ```
+3. **Commit your changes**:
+   ```sh
+   git commit -m 'Add some AmazingFeature'
+   ```
+4. **Push to the branch**:
+   ```sh
+   git push origin feature/AmazingFeature
+   ```
+5. **Open a Pull Request**
+
+---
+
+## License 📝
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-## Credits
-Images: Unsplash<br>
-Videos: Pexels
+---
 
+## Credits 📸
+
+- **Images**: [Unsplash](https://unsplash.com/)
+- **Videos**: [Pexels](https://www.pexels.com/)
+
+License 📝
+Distributed under the MIT License. See LICENSE for more information.
+Credits 📸
+
+Images: Unsplash
+Videos: Pexels
